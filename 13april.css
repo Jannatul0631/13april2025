@@ -1,0 +1,26 @@
+.body{
+    font-family: "Inria Sans", sans-serif;
+}
+.bcgrd{
+    background-image: url(/Assets/laptop1.jpeg);
+    height: 550px;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: azure;
+}
+.mdl{
+    text-align: center;
+    padding-top: 200px;
+}
+.bckgrnd{
+    background-image: url(/Assets/bckgrnd.jfif);
+    height: 200px;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.txt{
+    text-align: center;
+    padding-top: 100px;
+}
